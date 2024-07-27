@@ -1,7 +1,7 @@
 # douban-api-rs
 简单的豆瓣api，主要用于配合[jellyfin-plugin-opendouban](https://github.com/caryyu/jellyfin-plugin-opendouban)插件，在jellyfin中刮削电影信息
 
-
+原项目已不再维护、此项目修复获取不到多个作者的场景
 
 ## docker运行
 
